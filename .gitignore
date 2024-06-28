@@ -3,3 +3,6 @@ dist
 *.egg-info
 auto_subtitle/__pycache__
 build
+env/
+*RWTHmoodle.srt
+*RWTHmoodle.txt
