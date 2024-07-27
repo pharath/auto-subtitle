@@ -1,4 +1,6 @@
 # Usage: auto_subtitle ~/path/to/file.mp4 --srt_only True
+#
+# more: auto_subtitle -h
 
 filename="$0"
 srtfile="$1"
