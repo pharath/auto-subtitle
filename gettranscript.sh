@@ -1,3 +1,5 @@
+# Usage: auto_subtitle ~/path/to/file.mp4 --srt_only True
+
 filename="$0"
 srtfile="$1"
 transcriptfile="$2"
