@@ -1,4 +1,4 @@
-# Usage: auto_subtitle ~/path/to/file.mp4 --srt_only True
+# Usage: auto_subtitle ~/path/to/file1.mp4 ~/path/to/file2.mp4 ~/path/to/file3.mp4 --srt_only True
 #
 # more: auto_subtitle -h
 
